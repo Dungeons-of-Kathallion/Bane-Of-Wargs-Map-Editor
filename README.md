@@ -20,7 +20,7 @@ pip install -r requirements.txt
 python map.py
 ```
 
-Check the [`docs/MAP_ODS.MD`](https://github.com/Dungeons-of-Kathallion/Bane-Of-Wargs-Map-Editor/blob/master/.github/MAP_ODS.md) documentation to know everything about how to edit that map.ods file.
+Check the [`docs/MAP_ODS.MD`](https://github.com/Dungeons-of-Kathallion/Bane-Of-Wargs-Map-Editor/blob/master/docs/MAP_ODS.md) documentation to know everything about how to edit that map.ods file.
 
 ## Python Module Requirements
 The script has minimal module requirements, only two module is required by now for running the map.py script.
