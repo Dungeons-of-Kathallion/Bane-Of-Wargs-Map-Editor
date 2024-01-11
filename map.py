@@ -121,6 +121,7 @@ try:
             dialog = None
 
         # Create new map point dictionary
+        
         if enemies_num == 'None' and dialog == 'None' and keys == 'None':
             new_map_point = {
                 "x": x_count,
@@ -211,8 +212,13 @@ try:
             }
         # Update map dictionary and add the new map
         # point just loaded
-        map[f"point{count}"].update(new_map_point)
-
+        # If there is no map zone name, don't
+        # create the map point for optimization
+        # and delete the corresponding map point
+        if map_zone_name != 'None':
+            map[f"point{count}"].update(new_map_point)
+        else:
+            del map[f"point{count}"]
         # Required operations
         x_count += 1
         count_point2 += 1
