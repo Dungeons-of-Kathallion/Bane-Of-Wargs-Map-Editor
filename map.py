@@ -227,6 +227,20 @@ try:
         count += 1
 
 
+    # Re-name map point names so they're all
+    # in numerical order
+    count = 0
+    new_map = {}
+    
+    while count < len(list(map)):
+        new_map[f"point{count}"] = map[str(list(map)[count])]
+        
+        count += 1
+        
+    # Save numerically ordered map into
+    # the real map
+    map = new_map
+
     # Save created map data stored under map
     # variable to the real map.yaml file
 
