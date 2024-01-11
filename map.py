@@ -121,95 +121,327 @@ try:
             dialog = None
 
         # Create new map point dictionary
-        
-        if enemies_num == 'None' and dialog == 'None' and keys == 'None':
+        if enemies_num == 'None' and dialog == 'None' and keys == 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
-                "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names
+                "blocked": blocked_directions
             }
-        if dialog == 'None' and enemies_num != 'None' and keys == 'None':
+        if dialog == 'None' and enemies_num != 'None' and keys == 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type
             }
-        if dialog != 'None' and enemies_num == 'None' and keys == 'None':
+        if dialog != 'None' and enemies_num == 'None' and keys == 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names,
                 "dialog": dialog
             }
-        if dialog != 'None' and enemies_num != 'None' and keys == 'None':
+        if dialog != 'None' and enemies_num != 'None' and keys == 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type,
                 "dialog": dialog
             }
-        if dialog == 'None' and enemies_num != 'None' and keys != 'None':
+        if dialog == 'None' and enemies_num != 'None' and keys != 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type,
                 "key": keys
             }
-        if dialog != 'None' and enemies_num == 'None' and keys != 'None':
+        if dialog != 'None' and enemies_num == 'None' and keys != 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names,
                 "dialog": dialog,
                 "key": keys
             }
-        if dialog != 'None' and enemies_num != 'None' and keys != 'None':
+        if dialog != 'None' and enemies_num != 'None' and keys != 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type,
                 "dialog": dialog,
                 "key": keys
             }
-        if enemies_num == 'None' and dialog == 'None' and keys != 'None':
+        if enemies_num == 'None' and dialog == 'None' and keys != 'None' and npc_names == ['None'] and ground_items == ['None']:
             new_map_point = {
                 "x": x_count,
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "item": ground_items,
-                "npc": npc_names,
                 "key": keys
             }
+        if enemies_num == 'None' and dialog == 'None' and keys == 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "npc": npc_names
+            }
+        if dialog == 'None' and enemies_num != 'None' and keys == 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "npc": npc_names
+            }
+        if dialog != 'None' and enemies_num == 'None' and keys == 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "dialog": dialog,
+                "npc": npc_names
+            }
+        if dialog != 'None' and enemies_num != 'None' and keys == 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "dialog": dialog,
+                "npc": npc_names
+            }
+        if dialog == 'None' and enemies_num != 'None' and keys != 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "key": keys,
+                "npc": npc_names
+            }
+        if dialog != 'None' and enemies_num == 'None' and keys != 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "dialog": dialog,
+                "key": keys,
+                "npc": npc_names
+            }
+        if dialog != 'None' and enemies_num != 'None' and keys != 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "dialog": dialog,
+                "key": keys,
+                "npc": npc_names
+            }
+        if enemies_num == 'None' and dialog == 'None' and keys != 'None' and npc_names != ['None'] and ground_items == ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "key": keys,
+                "npc": npc_names
+            }
+        if enemies_num == 'None' and dialog == 'None' and keys == 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "item": ground_items
+            }
+        if dialog == 'None' and enemies_num != 'None' and keys == 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num == 'None' and keys == 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "dialog": dialog,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num != 'None' and keys == 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "dialog": dialog,
+                "item": ground_items
+            }
+        if dialog == 'None' and enemies_num != 'None' and keys != 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "key": keys,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num == 'None' and keys != 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "dialog": dialog,
+                "key": keys,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num != 'None' and keys != 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "dialog": dialog,
+                "key": keys,
+                "item": ground_items
+            }
+        if enemies_num == 'None' and dialog == 'None' and keys != 'None' and npc_names == ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "key": keys,
+                "item": ground_items
+            }
+        if enemies_num == 'None' and dialog == 'None' and keys == 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "npc": npc_names,
+                "item": ground_items
+            }
+        if dialog == 'None' and enemies_num != 'None' and keys == 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "npc": npc_names,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num == 'None' and keys == 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "dialog": dialog,
+                "npc": npc_names,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num != 'None' and keys == 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "dialog": dialog,
+                "npc": npc_names,
+                "item": ground_items
+            }
+        if dialog == 'None' and enemies_num != 'None' and keys != 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "key": keys,
+                "npc": npc_names,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num == 'None' and keys != 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "dialog": dialog,
+                "key": keys,
+                "npc": npc_names,
+                "item": ground_items
+            }
+        if dialog != 'None' and enemies_num != 'None' and keys != 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "enemy": enemies_num,
+                "enemy type": enemies_type,
+                "dialog": dialog,
+                "key": keys,
+                "npc": npc_names,
+                "item": ground_items
+            }
+        if enemies_num == 'None' and dialog == 'None' and keys != 'None' and npc_names != ['None'] and ground_items != ['None']:
+            new_map_point = {
+                "x": x_count,
+                "y": y_count,
+                "map zone": map_zone_name,
+                "blocked": blocked_directions,
+                "key": keys,
+                "npc": npc_names,
+                "item": ground_items
+            }
+            
         # Update map dictionary and add the new map
         # point just loaded
         # If there is no map zone name, don't
