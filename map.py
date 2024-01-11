@@ -128,7 +128,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names
             }
         if dialog == 'None' and enemies_num != 'None' and keys == 'None':
@@ -137,7 +137,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type
@@ -148,7 +148,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names,
                 "dialog": dialog
             }
@@ -158,7 +158,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type,
@@ -170,7 +170,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type,
@@ -182,7 +182,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names,
                 "dialog": dialog,
                 "key": keys
@@ -193,7 +193,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names,
                 "enemy": enemies_num,
                 "enemy type": enemies_type,
@@ -206,7 +206,7 @@ try:
                 "y": y_count,
                 "map zone": map_zone_name,
                 "blocked": blocked_directions,
-                "items": ground_items,
+                "item": ground_items,
                 "npc": npc_names,
                 "key": keys
             }
