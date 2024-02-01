@@ -1,0 +1,1884 @@
+point0:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 55
+point1:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 55
+point10:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 54
+point100:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 45
+point101:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 45
+point102:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 45
+point103:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 45
+point104:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 45
+point105:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 45
+point106:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 45
+point107:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 45
+point108:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 45
+point109:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -41
+  y: 45
+point11:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 54
+point110:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -55
+  y: 44
+point111:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 44
+point112:
+  blocked:
+  - None
+  map zone: Cocorico Village
+  x: -53
+  y: 44
+point113:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 44
+point114:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 44
+point115:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 44
+point116:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 44
+point117:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 44
+point118:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 44
+point119:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 44
+point12:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 53
+point120:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 44
+point121:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 44
+point122:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 44
+point123:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 44
+point124:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 43
+point125:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 43
+point126:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 43
+point127:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 43
+point128:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 43
+point129:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 43
+point13:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 53
+point130:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -48
+  y: 43
+point131:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 43
+point132:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 43
+point133:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -45
+  y: 43
+point134:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 43
+point135:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 43
+point136:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 43
+point137:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 42
+point138:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 42
+point139:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 42
+point14:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 53
+point140:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -51
+  y: 42
+point141:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 42
+point142:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 42
+point143:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -48
+  y: 42
+point144:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 42
+point145:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 42
+point146:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 42
+point147:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 42
+point148:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 42
+point149:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -56
+  y: 41
+point15:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 53
+point150:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -55
+  y: 41
+point151:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 41
+point152:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 41
+point153:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 41
+point154:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 41
+point155:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 41
+point156:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 41
+point157:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 41
+point158:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 41
+point159:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 41
+point16:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 53
+point160:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 41
+point161:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 41
+point162:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 41
+point163:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -55
+  y: 40
+point164:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 40
+point165:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 40
+point166:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 40
+point167:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 40
+point168:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 40
+point169:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 40
+point17:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 52
+point170:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 40
+point171:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 40
+point172:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 40
+point173:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 40
+point174:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 40
+point175:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -55
+  y: 39
+point176:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 39
+point177:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 39
+point178:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 39
+point179:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -51
+  y: 39
+point18:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 52
+point180:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 39
+point181:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 39
+point182:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 39
+point183:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 39
+point184:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -45
+  y: 39
+point185:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 39
+point186:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 39
+point187:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 38
+point188:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 38
+point189:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 38
+point19:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 52
+point190:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -51
+  y: 38
+point191:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 38
+point192:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 38
+point193:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 38
+point194:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 38
+point195:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 38
+point196:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -45
+  y: 38
+point197:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 38
+point198:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 38
+point199:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 37
+point2:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 55
+point20:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 52
+point200:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 37
+point201:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -52
+  y: 37
+point202:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -51
+  y: 37
+point203:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 37
+point204:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 37
+point205:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 37
+point206:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -47
+  y: 37
+point207:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 37
+point208:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 37
+point209:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 37
+point21:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 52
+point210:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 37
+point211:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 36
+point212:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 36
+point213:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -52
+  y: 36
+point214:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 36
+point215:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 36
+point216:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 36
+point217:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 36
+point218:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 36
+point219:
+  blocked:
+  - None
+  map zone: The Goro Mounts Peaks
+  x: -46
+  y: 36
+point22:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 52
+point220:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 36
+point221:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 36
+point222:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 36
+point223:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -52
+  y: 35
+point224:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 35
+point225:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 35
+point226:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 35
+point227:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 35
+point228:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 35
+point229:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 35
+point23:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 52
+point230:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 35
+point231:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 35
+point232:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 35
+point233:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 34
+point234:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 34
+point235:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 34
+point236:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 34
+point237:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 34
+point238:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 34
+point239:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 34
+point24:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 52
+point240:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 34
+point241:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 34
+point242:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 34
+point243:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -52
+  y: 33
+point244:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 33
+point245:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 33
+point246:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 33
+point247:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 33
+point248:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 33
+point249:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 33
+point25:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 51
+point250:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 33
+point251:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 33
+point252:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 33
+point253:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 33
+point254:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 32
+point255:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 32
+point256:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 32
+point257:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 32
+point258:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 32
+point259:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 32
+point26:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 51
+point260:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 32
+point261:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 32
+point262:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 32
+point263:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 31
+point264:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 31
+point265:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 31
+point266:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 31
+point267:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 31
+point268:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 31
+point269:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 31
+point27:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 51
+point270:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 31
+point271:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 31
+point272:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 30
+point273:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 30
+point274:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 30
+point275:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 30
+point276:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 30
+point277:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 30
+point278:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 30
+point279:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 30
+point28:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 51
+point280:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 29
+point281:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 29
+point282:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 29
+point283:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 29
+point284:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 29
+point285:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 29
+point286:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 29
+point287:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 29
+point288:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 28
+point289:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 28
+point29:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 51
+point290:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 28
+point291:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 28
+point292:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 28
+point293:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 28
+point294:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 28
+point295:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 28
+point296:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 27
+point297:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 27
+point298:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 27
+point299:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 27
+point3:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 55
+point30:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 51
+point300:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 27
+point301:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 27
+point302:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 27
+point303:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 27
+point304:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 26
+point305:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 26
+point306:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 26
+point307:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 26
+point308:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 26
+point309:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 25
+point31:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 51
+point310:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 25
+point311:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 25
+point312:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 25
+point313:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 25
+point32:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 51
+point33:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 51
+point34:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 50
+point35:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 50
+point36:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 50
+point37:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 50
+point38:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 50
+point39:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 50
+point4:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -45
+  y: 55
+point40:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 50
+point41:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 50
+point42:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 50
+point43:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 50
+point44:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -53
+  y: 49
+point45:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 49
+point46:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 49
+point47:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 49
+point48:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 49
+point49:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 49
+point5:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 55
+point50:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 49
+point51:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 49
+point52:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 49
+point53:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 49
+point54:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 49
+point55:
+  blocked:
+  - None
+  map zone: Pickaxe Forge
+  x: -53
+  y: 48
+point56:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 48
+point57:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -51
+  y: 48
+point58:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 48
+point59:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 48
+point6:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 54
+point60:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 48
+point61:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 48
+point62:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 48
+point63:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 48
+point64:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -44
+  y: 48
+point65:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 48
+point66:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -54
+  y: 47
+point67:
+  blocked:
+  - None
+  map zone: James Blacksmith
+  x: -53
+  y: 47
+point68:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -52
+  y: 47
+point69:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -51
+  y: 47
+point7:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -48
+  y: 54
+point70:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 47
+point71:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -49
+  y: 47
+point72:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 47
+point73:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 47
+point74:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 47
+point75:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 47
+point76:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 47
+point77:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 47
+point78:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 47
+point79:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -41
+  y: 47
+point8:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -47
+  y: 54
+point80:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -55
+  y: 46
+point81:
+  blocked:
+  - None
+  map zone: Clarc Warg Stable
+  x: -54
+  y: 46
+point82:
+  blocked:
+  - None
+  map zone: Cocorico Village
+  x: -53
+  y: 46
+point83:
+  blocked:
+  - None
+  map zone: Woodstack Hostel
+  x: -52
+  y: 46
+point84:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -51
+  y: 46
+point85:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -50
+  y: 46
+point86:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -49
+  y: 46
+point87:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -48
+  y: 46
+point88:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -47
+  y: 46
+point89:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -46
+  y: 46
+point9:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -46
+  y: 54
+point90:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -45
+  y: 46
+point91:
+  blocked:
+  - None
+  map zone: The Goro Mounts
+  x: -44
+  y: 46
+point92:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -43
+  y: 46
+point93:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -42
+  y: 46
+point94:
+  blocked:
+  - None
+  map zone: The Edge Of Goro Mounts
+  x: -41
+  y: 46
+point95:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -55
+  y: 45
+point96:
+  blocked:
+  - None
+  map zone: Cocorico Village
+  x: -54
+  y: 45
+point97:
+  blocked:
+  - None
+  map zone: Cocorico Village
+  x: -53
+  y: 45
+point98:
+  blocked:
+  - None
+  map zone: Cocorico Village
+  x: -52
+  y: 45
+point99:
+  blocked:
+  - None
+  map zone: Stall Fields
+  x: -51
+  y: 45
