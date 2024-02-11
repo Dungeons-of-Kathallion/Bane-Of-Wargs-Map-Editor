@@ -42562,30 +42562,120 @@ point16381:
   map zone: Stall Seas
   x: -64
   y: -63
-point16382: {}
-point16383: {}
-point16384: {}
-point16385: {}
-point16386: {}
-point16387: {}
-point16388: {}
-point16389: {}
+point16382:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -63
+  y: -63
+point16383:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -62
+  y: -63
+point16384:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -61
+  y: -63
+point16385:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -60
+  y: -63
+point16386:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -59
+  y: -63
+point16387:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -58
+  y: -63
+point16388:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -57
+  y: -63
+point16389:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -56
+  y: -63
 point1639:
   blocked:
   - None
   map zone: Stall Seas
   x: 27
   y: 52
-point16390: {}
-point16391: {}
-point16392: {}
-point16393: {}
-point16394: {}
-point16395: {}
-point16396: {}
-point16397: {}
-point16398: {}
-point16399: {}
+point16390:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -55
+  y: -63
+point16391:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -54
+  y: -63
+point16392:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -53
+  y: -63
+point16393:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -52
+  y: -63
+point16394:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -51
+  y: -63
+point16395:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -50
+  y: -63
+point16396:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -49
+  y: -63
+point16397:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -48
+  y: -63
+point16398:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -47
+  y: -63
+point16399:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -46
+  y: -63
 point164:
   blocked:
   - None
@@ -42598,160 +42688,660 @@ point1640:
   map zone: Stall Seas
   x: 28
   y: 52
-point16400: {}
-point16401: {}
-point16402: {}
-point16403: {}
-point16404: {}
-point16405: {}
-point16406: {}
-point16407: {}
-point16408: {}
-point16409: {}
+point16400:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -45
+  y: -63
+point16401:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -44
+  y: -63
+point16402:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -43
+  y: -63
+point16403:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -42
+  y: -63
+point16404:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -41
+  y: -63
+point16405:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -40
+  y: -63
+point16406:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -39
+  y: -63
+point16407:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -38
+  y: -63
+point16408:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -37
+  y: -63
+point16409:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -36
+  y: -63
 point1641:
   blocked:
   - None
   map zone: Stall Seas
   x: 29
   y: 52
-point16410: {}
-point16411: {}
-point16412: {}
-point16413: {}
-point16414: {}
-point16415: {}
-point16416: {}
-point16417: {}
-point16418: {}
-point16419: {}
+point16410:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -35
+  y: -63
+point16411:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -34
+  y: -63
+point16412:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -33
+  y: -63
+point16413:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -32
+  y: -63
+point16414:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -31
+  y: -63
+point16415:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -30
+  y: -63
+point16416:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -29
+  y: -63
+point16417:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -28
+  y: -63
+point16418:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -27
+  y: -63
+point16419:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -26
+  y: -63
 point1642:
   blocked:
   - None
   map zone: Stall Seas
   x: 30
   y: 52
-point16420: {}
-point16421: {}
-point16422: {}
-point16423: {}
-point16424: {}
-point16425: {}
-point16426: {}
-point16427: {}
-point16428: {}
-point16429: {}
+point16420:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -25
+  y: -63
+point16421:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -24
+  y: -63
+point16422:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -23
+  y: -63
+point16423:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -22
+  y: -63
+point16424:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -21
+  y: -63
+point16425:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -20
+  y: -63
+point16426:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -19
+  y: -63
+point16427:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -18
+  y: -63
+point16428:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -17
+  y: -63
+point16429:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -16
+  y: -63
 point1643:
   blocked:
   - None
   map zone: Stall Seas
   x: 31
   y: 52
-point16430: {}
-point16431: {}
-point16432: {}
-point16433: {}
-point16434: {}
-point16435: {}
-point16436: {}
-point16437: {}
-point16438: {}
-point16439: {}
+point16430:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -15
+  y: -63
+point16431:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -14
+  y: -63
+point16432:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -13
+  y: -63
+point16433:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -12
+  y: -63
+point16434:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -11
+  y: -63
+point16435:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -10
+  y: -63
+point16436:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -9
+  y: -63
+point16437:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -8
+  y: -63
+point16438:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -7
+  y: -63
+point16439:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -6
+  y: -63
 point1644:
   blocked:
   - None
   map zone: Stall Seas
   x: 32
   y: 52
-point16440: {}
-point16441: {}
-point16442: {}
-point16443: {}
-point16444: {}
-point16445: {}
-point16446: {}
-point16447: {}
-point16448: {}
-point16449: {}
+point16440:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -5
+  y: -63
+point16441:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -4
+  y: -63
+point16442:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -3
+  y: -63
+point16443:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -2
+  y: -63
+point16444:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -1
+  y: -63
+point16445:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 0
+  y: -63
+point16446:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 1
+  y: -63
+point16447:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 2
+  y: -63
+point16448:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 3
+  y: -63
+point16449:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 4
+  y: -63
 point1645:
   blocked:
   - None
   map zone: Stall Seas
   x: 33
   y: 52
-point16450: {}
-point16451: {}
-point16452: {}
-point16453: {}
-point16454: {}
-point16455: {}
-point16456: {}
-point16457: {}
-point16458: {}
-point16459: {}
+point16450:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 5
+  y: -63
+point16451:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 6
+  y: -63
+point16452:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 7
+  y: -63
+point16453:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 8
+  y: -63
+point16454:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 9
+  y: -63
+point16455:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 10
+  y: -63
+point16456:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 11
+  y: -63
+point16457:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 12
+  y: -63
+point16458:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 13
+  y: -63
+point16459:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 14
+  y: -63
 point1646:
   blocked:
   - None
   map zone: Stall Seas
   x: 34
   y: 52
-point16460: {}
-point16461: {}
-point16462: {}
-point16463: {}
-point16464: {}
-point16465: {}
-point16466: {}
-point16467: {}
-point16468: {}
-point16469: {}
+point16460:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 15
+  y: -63
+point16461:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 16
+  y: -63
+point16462:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 17
+  y: -63
+point16463:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 18
+  y: -63
+point16464:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 19
+  y: -63
+point16465:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 20
+  y: -63
+point16466:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 21
+  y: -63
+point16467:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 22
+  y: -63
+point16468:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 23
+  y: -63
+point16469:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 24
+  y: -63
 point1647:
   blocked:
   - None
   map zone: Stall Seas
   x: 35
   y: 52
-point16470: {}
-point16471: {}
-point16472: {}
-point16473: {}
-point16474: {}
-point16475: {}
-point16476: {}
-point16477: {}
-point16478: {}
-point16479: {}
+point16470:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 25
+  y: -63
+point16471:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 26
+  y: -63
+point16472:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 27
+  y: -63
+point16473:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 28
+  y: -63
+point16474:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 29
+  y: -63
+point16475:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 30
+  y: -63
+point16476:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 31
+  y: -63
+point16477:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 32
+  y: -63
+point16478:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 33
+  y: -63
+point16479:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 34
+  y: -63
 point1648:
   blocked:
   - None
   map zone: Stall Seas
   x: 36
   y: 52
-point16480: {}
-point16481: {}
-point16482: {}
-point16483: {}
-point16484: {}
-point16485: {}
-point16486: {}
-point16487: {}
-point16488: {}
-point16489: {}
+point16480:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 35
+  y: -63
+point16481:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 36
+  y: -63
+point16482:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 37
+  y: -63
+point16483:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 38
+  y: -63
+point16484:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 39
+  y: -63
+point16485:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 40
+  y: -63
+point16486:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 41
+  y: -63
+point16487:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 42
+  y: -63
+point16488:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 43
+  y: -63
+point16489:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 44
+  y: -63
 point1649:
   blocked:
   - None
   map zone: Stall Seas
   x: 37
   y: 52
-point16490: {}
-point16491: {}
-point16492: {}
-point16493: {}
-point16494: {}
-point16495: {}
-point16496: {}
-point16497: {}
-point16498: {}
-point16499: {}
+point16490:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 45
+  y: -63
+point16491:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 46
+  y: -63
+point16492:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 47
+  y: -63
+point16493:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 48
+  y: -63
+point16494:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 49
+  y: -63
+point16495:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 50
+  y: -63
+point16496:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 51
+  y: -63
+point16497:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 52
+  y: -63
+point16498:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 53
+  y: -63
+point16499:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 54
+  y: -63
 point165:
   blocked:
   - None
@@ -42764,160 +43354,660 @@ point1650:
   map zone: Stall Seas
   x: 38
   y: 52
-point16500: {}
-point16501: {}
-point16502: {}
-point16503: {}
-point16504: {}
-point16505: {}
-point16506: {}
-point16507: {}
-point16508: {}
-point16509: {}
+point16500:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 55
+  y: -63
+point16501:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 56
+  y: -63
+point16502:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 57
+  y: -63
+point16503:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 58
+  y: -63
+point16504:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 59
+  y: -63
+point16505:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 60
+  y: -63
+point16506:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 61
+  y: -63
+point16507:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 62
+  y: -63
+point16508:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 63
+  y: -63
+point16509:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 64
+  y: -63
 point1651:
   blocked:
   - None
   map zone: Stall Seas
   x: 39
   y: 52
-point16510: {}
-point16511: {}
-point16512: {}
-point16513: {}
-point16514: {}
-point16515: {}
-point16516: {}
-point16517: {}
-point16518: {}
-point16519: {}
+point16510:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -64
+  y: -64
+point16511:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -63
+  y: -64
+point16512:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -62
+  y: -64
+point16513:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -61
+  y: -64
+point16514:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -60
+  y: -64
+point16515:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -59
+  y: -64
+point16516:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -58
+  y: -64
+point16517:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -57
+  y: -64
+point16518:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -56
+  y: -64
+point16519:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -55
+  y: -64
 point1652:
   blocked:
   - None
   map zone: Stall Seas
   x: 40
   y: 52
-point16520: {}
-point16521: {}
-point16522: {}
-point16523: {}
-point16524: {}
-point16525: {}
-point16526: {}
-point16527: {}
-point16528: {}
-point16529: {}
+point16520:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -54
+  y: -64
+point16521:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -53
+  y: -64
+point16522:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -52
+  y: -64
+point16523:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -51
+  y: -64
+point16524:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -50
+  y: -64
+point16525:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -49
+  y: -64
+point16526:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -48
+  y: -64
+point16527:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -47
+  y: -64
+point16528:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -46
+  y: -64
+point16529:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -45
+  y: -64
 point1653:
   blocked:
   - None
   map zone: Stall Seas
   x: 41
   y: 52
-point16530: {}
-point16531: {}
-point16532: {}
-point16533: {}
-point16534: {}
-point16535: {}
-point16536: {}
-point16537: {}
-point16538: {}
-point16539: {}
+point16530:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -44
+  y: -64
+point16531:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -43
+  y: -64
+point16532:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -42
+  y: -64
+point16533:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -41
+  y: -64
+point16534:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -40
+  y: -64
+point16535:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -39
+  y: -64
+point16536:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -38
+  y: -64
+point16537:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -37
+  y: -64
+point16538:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -36
+  y: -64
+point16539:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -35
+  y: -64
 point1654:
   blocked:
   - None
   map zone: Stall Seas
   x: 42
   y: 52
-point16540: {}
-point16541: {}
-point16542: {}
-point16543: {}
-point16544: {}
-point16545: {}
-point16546: {}
-point16547: {}
-point16548: {}
-point16549: {}
+point16540:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -34
+  y: -64
+point16541:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -33
+  y: -64
+point16542:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -32
+  y: -64
+point16543:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -31
+  y: -64
+point16544:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -30
+  y: -64
+point16545:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -29
+  y: -64
+point16546:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -28
+  y: -64
+point16547:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -27
+  y: -64
+point16548:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -26
+  y: -64
+point16549:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -25
+  y: -64
 point1655:
   blocked:
   - None
   map zone: Stall Seas
   x: 43
   y: 52
-point16550: {}
-point16551: {}
-point16552: {}
-point16553: {}
-point16554: {}
-point16555: {}
-point16556: {}
-point16557: {}
-point16558: {}
-point16559: {}
+point16550:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -24
+  y: -64
+point16551:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -23
+  y: -64
+point16552:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -22
+  y: -64
+point16553:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -21
+  y: -64
+point16554:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -20
+  y: -64
+point16555:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -19
+  y: -64
+point16556:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -18
+  y: -64
+point16557:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -17
+  y: -64
+point16558:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -16
+  y: -64
+point16559:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -15
+  y: -64
 point1656:
   blocked:
   - None
   map zone: Stall Seas
   x: 44
   y: 52
-point16560: {}
-point16561: {}
-point16562: {}
-point16563: {}
-point16564: {}
-point16565: {}
-point16566: {}
-point16567: {}
-point16568: {}
-point16569: {}
+point16560:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -14
+  y: -64
+point16561:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -13
+  y: -64
+point16562:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -12
+  y: -64
+point16563:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -11
+  y: -64
+point16564:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -10
+  y: -64
+point16565:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -9
+  y: -64
+point16566:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -8
+  y: -64
+point16567:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -7
+  y: -64
+point16568:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -6
+  y: -64
+point16569:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -5
+  y: -64
 point1657:
   blocked:
   - None
   map zone: Stall Seas
   x: 45
   y: 52
-point16570: {}
-point16571: {}
-point16572: {}
-point16573: {}
-point16574: {}
-point16575: {}
-point16576: {}
-point16577: {}
-point16578: {}
-point16579: {}
+point16570:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -4
+  y: -64
+point16571:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -3
+  y: -64
+point16572:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -2
+  y: -64
+point16573:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: -1
+  y: -64
+point16574:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 0
+  y: -64
+point16575:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 1
+  y: -64
+point16576:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 2
+  y: -64
+point16577:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 3
+  y: -64
+point16578:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 4
+  y: -64
+point16579:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 5
+  y: -64
 point1658:
   blocked:
   - None
   map zone: Stall Seas
   x: 46
   y: 52
-point16580: {}
-point16581: {}
-point16582: {}
-point16583: {}
-point16584: {}
-point16585: {}
-point16586: {}
-point16587: {}
-point16588: {}
-point16589: {}
+point16580:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 6
+  y: -64
+point16581:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 7
+  y: -64
+point16582:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 8
+  y: -64
+point16583:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 9
+  y: -64
+point16584:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 10
+  y: -64
+point16585:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 11
+  y: -64
+point16586:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 12
+  y: -64
+point16587:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 13
+  y: -64
+point16588:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 14
+  y: -64
+point16589:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 15
+  y: -64
 point1659:
   blocked:
   - None
   map zone: Stall Seas
   x: 47
   y: 52
-point16590: {}
-point16591: {}
-point16592: {}
-point16593: {}
-point16594: {}
-point16595: {}
-point16596: {}
-point16597: {}
-point16598: {}
-point16599: {}
+point16590:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 16
+  y: -64
+point16591:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 17
+  y: -64
+point16592:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 18
+  y: -64
+point16593:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 19
+  y: -64
+point16594:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 20
+  y: -64
+point16595:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 21
+  y: -64
+point16596:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 22
+  y: -64
+point16597:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 23
+  y: -64
+point16598:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 24
+  y: -64
+point16599:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 25
+  y: -64
 point166:
   blocked:
   - None
@@ -42930,63 +44020,258 @@ point1660:
   map zone: Stall Seas
   x: 48
   y: 52
-point16600: {}
-point16601: {}
-point16602: {}
-point16603: {}
-point16604: {}
-point16605: {}
-point16606: {}
-point16607: {}
-point16608: {}
-point16609: {}
+point16600:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 26
+  y: -64
+point16601:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 27
+  y: -64
+point16602:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 28
+  y: -64
+point16603:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 29
+  y: -64
+point16604:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 30
+  y: -64
+point16605:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 31
+  y: -64
+point16606:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 32
+  y: -64
+point16607:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 33
+  y: -64
+point16608:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 34
+  y: -64
+point16609:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 35
+  y: -64
 point1661:
   blocked:
   - None
   map zone: Stall Seas
   x: 49
   y: 52
-point16610: {}
-point16611: {}
-point16612: {}
-point16613: {}
-point16614: {}
-point16615: {}
-point16616: {}
-point16617: {}
-point16618: {}
-point16619: {}
+point16610:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 36
+  y: -64
+point16611:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 37
+  y: -64
+point16612:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 38
+  y: -64
+point16613:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 39
+  y: -64
+point16614:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 40
+  y: -64
+point16615:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 41
+  y: -64
+point16616:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 42
+  y: -64
+point16617:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 43
+  y: -64
+point16618:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 44
+  y: -64
+point16619:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 45
+  y: -64
 point1662:
   blocked:
   - None
   map zone: Stall Seas
   x: 50
   y: 52
-point16620: {}
-point16621: {}
-point16622: {}
-point16623: {}
-point16624: {}
-point16625: {}
-point16626: {}
-point16627: {}
-point16628: {}
-point16629: {}
+point16620:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 46
+  y: -64
+point16621:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 47
+  y: -64
+point16622:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 48
+  y: -64
+point16623:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 49
+  y: -64
+point16624:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 50
+  y: -64
+point16625:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 51
+  y: -64
+point16626:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 52
+  y: -64
+point16627:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 53
+  y: -64
+point16628:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 54
+  y: -64
+point16629:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 55
+  y: -64
 point1663:
   blocked:
   - None
   map zone: Stall Seas
   x: 51
   y: 52
-point16630: {}
-point16631: {}
-point16632: {}
-point16633: {}
-point16634: {}
-point16635: {}
-point16636: {}
-point16637: {}
-point16638: {}
+point16630:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 56
+  y: -64
+point16631:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 57
+  y: -64
+point16632:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 58
+  y: -64
+point16633:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 59
+  y: -64
+point16634:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 60
+  y: -64
+point16635:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 61
+  y: -64
+point16636:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 62
+  y: -64
+point16637:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 63
+  y: -64
+point16638:
+  blocked:
+  - None
+  map zone: Stall Seas
+  x: 64
+  y: -64
 point1664:
   blocked:
   - None
@@ -47406,7 +48691,7 @@ point2325:
 point2326:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 46
 point2327:
@@ -48264,7 +49549,7 @@ point2454:
 point2455:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 45
 point2456:
@@ -49122,7 +50407,7 @@ point2583:
 point2584:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 44
 point2585:
@@ -49986,7 +51271,7 @@ point2712:
 point2713:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 43
 point2714:
@@ -50844,7 +52129,7 @@ point2841:
 point2842:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 42
 point2843:
@@ -51696,7 +52981,7 @@ point297:
 point2970:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 41
 point2971:
@@ -52548,7 +53833,7 @@ point3097:
 point3098:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 40
 point3099:
@@ -53412,13 +54697,13 @@ point3226:
 point3227:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 39
 point3228:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 39
 point3229:
@@ -54270,13 +55555,13 @@ point3355:
 point3356:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 38
 point3357:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 38
 point3358:
@@ -55128,13 +56413,13 @@ point3484:
 point3485:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 37
 point3486:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 37
 point3487:
@@ -55992,13 +57277,13 @@ point3613:
 point3614:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 36
 point3615:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 36
 point3616:
@@ -56850,13 +58135,13 @@ point3742:
 point3743:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 35
 point3744:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 35
 point3745:
@@ -57708,13 +58993,13 @@ point3871:
 point3872:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 34
 point3873:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 34
 point3874:
@@ -58578,13 +59863,13 @@ point4000:
 point4001:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 33
 point4002:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 33
 point4003:
@@ -59436,13 +60721,13 @@ point413:
 point4130:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 32
 point4131:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -59
   y: 32
 point4132:
@@ -60288,7 +61573,7 @@ point4258:
 point4259:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 31
 point426:
@@ -61146,7 +62431,7 @@ point4387:
 point4388:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 30
 point4389:
@@ -62010,7 +63295,7 @@ point4516:
 point4517:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Californ Beaches
   x: -60
   y: 29
 point4518:
@@ -63738,13 +65023,13 @@ point4776:
 point4777:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -58
   y: 27
 point4778:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Pickaxe Forge
   x: -57
   y: 27
 point4779:
@@ -64602,13 +65887,13 @@ point4905:
 point4906:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -58
   y: 26
 point4907:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -57
   y: 26
 point4908:
@@ -65454,25 +66739,25 @@ point5032:
 point5033:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 25
 point5034:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -59
   y: 25
 point5035:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -58
   y: 25
 point5036:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -57
   y: 25
 point5037:
@@ -66312,13 +67597,13 @@ point5161:
 point5162:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: Seaside Hostels
   x: -60
   y: 24
 point5163:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -59
   y: 24
 point5164:
@@ -67170,7 +68455,7 @@ point5290:
 point5291:
   blocked:
   - None
-  map zone: Californ Woods
+  map zone: New Hyru
   x: -60
   y: 23
 point5292:
@@ -83652,7 +84937,7 @@ point7763:
 point7764:
   blocked:
   - None
-  map zone: Los Gerudos
+  map zone: Gerud Forges
   x: -38
   y: 4
 point7765:
@@ -84510,7 +85795,7 @@ point7892:
 point7893:
   blocked:
   - None
-  map zone: Los Gerudos
+  map zone: Gerud Forges
   x: -38
   y: 3
 point7894:
