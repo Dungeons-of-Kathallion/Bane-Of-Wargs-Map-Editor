@@ -47,7 +47,7 @@ try:
         while cont:
             cont = False
             # Loop to get every map point
-            for counting in range(0, 16384):
+            for counting in range(0, 16641):
                 progress.update(task2, advance=.01)
                 # Resetting stuff
                 if count_point2 == 129:
