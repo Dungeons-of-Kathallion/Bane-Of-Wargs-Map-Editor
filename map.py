@@ -98,11 +98,15 @@ try:
                 if keys != 'None':
                     keys = keys.split(', ')
                     remove_keys = keys[len(keys) - 1]
+                    if remove_keys == 'False':
+                        remove_keys = False
+                    elif remove_keys == 'True':
+                        remove_keys = True
                     del keys[len(keys) - 1]
 
                     keys = {
                         "required keys": keys,
-                        "remove key": bool(remove_keys)
+                        "remove key": remove_keys
                     }
 
 
