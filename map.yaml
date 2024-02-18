@@ -19618,7 +19618,7 @@ point1294:
   blocked:
   - None
   key:
-    remove key: true
+    remove key: false
     required keys:
     - Old Rusted Key
   map zone: Forlindon Woods
