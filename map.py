@@ -60,7 +60,7 @@ try:
 
                 # Get map point map zone
                 if data["Map Zone"][count_point][count_point2] != None:
-                    map_zone_name = str(data["Map Zone"][count_point][count_point2])
+                    map_zone_name = str(data["Map Zone"][count_point][count_point2]).replace("\u2019", "'")
                 else:
                     map_zone_name = None
 
